@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 body{
     display:flex;
     justify-content: center;
@@ -7,7 +11,7 @@ body{
 
 .corpo{
     width: 50%;
-    background-color: rgba(0, 0, 255, 0.293);
+    background-color: rgba(67, 67, 206, 0.535);
     border-radius: 10px;
     margin: 10px;
 }
@@ -17,9 +21,16 @@ p, h1{
     text-align: justify;
 }
 p{
-    font-size: 20px;
-    color: white;
+    font-size: 22px;
+    color: rgb(231, 225, 225);
     line-height: 0.7cm;
+}
+
+@media (max-width: 500px){
+    p{
+        font-size: 13.5px;
+        text-align: center;
+    }
 }
 nav{
     width: 100%;
@@ -49,37 +60,37 @@ nav{
 h1{
     text-align: center;
     margin: 0px;
-    color: white;
+    color: rgb(231, 225, 225);
+}
+@media (max-width: 500px){
+    h1{
+        font-size: 25px;
+    }
 }
 
 a{
+    color: rgb(231, 225, 225);
     margin: 10px;
     text-decoration: none;
     font-size: 20px;
     border-radius: 5px;
-    background-color: rgb(188, 188, 209);
+    background-color: rgb(27, 27, 91);
     border-width: 0.1px;
-    transition: 0.3s;
+    transition:ease-in-out 0.3s ;
     padding: 0px 1px 0px 1px;
+}
+@media (max-width: 500px){
+    a{
+        font-size: 14px;
+    }
 }
 
 a:hover{
-    background-color: rgb(24, 21, 72);
+    background-color: rgb(29, 20, 159);
     color:white;
     transform: translateX(100px);
 }
-footer{
-      width: 100%;
-        height: 49px;
-        padding: 2px 0px 2px 0px;
-        background-color: rgb(18, 35, 50);
-        border-radius: 0px 0px 10px 10px;
-        text-align: center;
 
+a:visited{
+    color:rgb(217, 214, 214);
 }
-
-
-
-
-
-
