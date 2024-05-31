@@ -1,0 +1,56 @@
+Matématica (h3)
+
+Macro assuntos (h2)
+
+Matématica básica - 32%
+Geometria - 22%
+Estatística - 13%
+Funções e equações 12%
+Combinatória e probabilidade 10%
+
+Matemática básica (h3)
+
+Razão e proporção - 46%
+Porcentagem - 28%
+Sistema de numeração - 15%
+MMC e MDC - 6%
+4 operações - 5%
+
+Geometria (h3)
+
+Geometria espacial -55%
+Geometria plana - 36%
+Geometria analítica - 9%
+
+Estatística (h3)
+
+Gráficos - 33%
+Medidas de tendência central - 27%
+Média aritmética - 24%
+Média ponderada - 16%
+
+Funções e equações (h3)
+
+Gráficos - 32%
+Função afim - 27%
+Função quadrática - 20%
+Funções trigonométricas - 11%
+Exponencial e logaritmo - 10%
+
+Combinatória e probabilidade
+
+Probabilidade - 55%
+Combinação - 19%
+PFC - 17%
+Permutação - 10%
+
+Outros
+
+PA e PG - 37%
+Trigonometria - 23%
+Conjuntos - 23%
+Matrizes - 9%
+Sistemas lineares - 9%
+
+
+

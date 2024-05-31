@@ -1,0 +1,41 @@
+Quimica (h1)
+
+Macro assuntos (h2)
+Físico-química - 34% 
+Geral - 23%
+Orgânica - 22%
+Atomística - 16%
+Meio Ambiente - 5%
+
+Físico-química (h3)
+Soluções - 27%
+Equilíbrio - 22%
+Eletroquímica - 19%
+Termoquímica - 11%
+Cinética - 11%
+Radioatividade - 8%
+Coligativas - 3%
+
+Geral (h3)
+Química Básica - 42%
+Estequiometria - 23%
+Funções Inogânicas - 23%
+Oxi Redução - 12%
+
+Orgânica(h3)
+Reações - 39%
+Cadeias - 22%
+Polímeros - 12%
+Funções - 10%
+Isometria - 12%
+Petróleo - 5%
+
+Atomística (h3)
+Forças Intermoleculares - 53%
+Ligações - 23%
+Átomo - 17%
+Tabela Periódica - 7%
+
+
+
+

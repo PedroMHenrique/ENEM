@@ -1,0 +1,41 @@
+Fisica (h1)
+
+Macro assuntos (h2)
+
+Eletrodinâmica - 26%
+Ondulatória - 18%
+Dinâmica - 16%
+Termologia - 12%
+Óptica - 9%
+Cinemática - 9%
+Hidrostática - 2%
+Gravitação - 2%
+Eletrostática - 2%
+Estática - 1%
+Hidrodinâmica - 1%
+MHS - 1% 
+Moderna - 1%
+
+Eletrodinâmica (h3)
+Circuitos elétricos - 64%
+Leis de Ohm - 27% 
+Potência e energia - 9%
+
+Ondulatória (h3)
+Fenômenos ondulatórios - 43%
+Fundamentosda ondulatória - 35%
+Estudo matemático - 11%
+Acústica - 8%
+
+Dinâmica (h3)
+Trabalho e energia - 63%
+Leis de Newton, atrito e força elástica - 27%
+Quantidade de movimento e impulso - 20%
+
+Termologia (h3)
+Calorimetria - 52%
+Transmissão de calor - 29%
+Gases e termodinâmica - 19%
+
+
+
