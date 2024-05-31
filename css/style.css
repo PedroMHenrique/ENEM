@@ -14,6 +14,7 @@ body{
     background-color: rgba(67, 67, 206, 0.535);
     border-radius: 10px;
     margin: 10px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.298);
 }
 
 p, h1{
@@ -28,7 +29,7 @@ p{
 
 @media (max-width: 500px){
     p{
-        font-size: 13.5px;
+        font-size: 15px;
         text-align: center;
     }
 }
@@ -76,12 +77,12 @@ a{
     border-radius: 5px;
     background-color: rgb(27, 27, 91);
     border-width: 0.1px;
-    transition:ease-in-out 0.3s ;
+    transition:ease-in-out 0.2s ;
     padding: 0px 1px 0px 1px;
 }
 @media (max-width: 500px){
     a{
-        font-size: 14px;
+        font-size: 15px;
     }
 }
 
@@ -93,4 +94,8 @@ a:hover{
 
 a:visited{
     color:rgb(217, 214, 214);
+}
+
+a:active{
+    background-color: blue;
 }
