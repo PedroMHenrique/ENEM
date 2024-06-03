@@ -11,11 +11,83 @@ body{
 }
 
 .corpo{
-    width: 50%;
+    width: 70vh;
     background-color: rgba(67, 67, 206, 0.535);
     border-radius: 10px;
     margin: 10px;
     box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.298);
+}
+@media (max-width: 600px){
+    .corpo{
+        width: 50%;
+    }
+}
+nav{
+    width: 100%;
+    height: 50px;
+    padding: 2px 0px 2px 0px;
+    background-color: rgb(18, 35, 50);
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+}
+@media (max-width: 1955px){
+    nav{
+        height: 80%;
+    }
+}
+@media (max-width: 1355px){
+    nav{
+        height: 80%;
+    }
+}
+@media (max-width: 1050px){
+    nav{
+        height: 80%;
+    }
+}
+@media (max-width: 732px){
+    nav{
+        height: 80%;
+    }
+}
+
+@media (max-width: 612px){
+    nav{
+        height: 90%;
+    }
+}
+h1{
+    text-align: center;
+    margin: 10px;
+    color: rgb(231, 225, 225);
+}
+h2{
+    color: rgb(231, 225, 225);
+    margin: 10px;
+    text-decoration: none;
+    font-size: 28px;
+    border-radius: 5px;
+    background-color: rgb(27, 27, 91);
+    text-align: center;
+}
+@media (max-width: 732px){
+    h2{
+        font-size: 22px;
+    }
+}
+h3{
+    color: rgb(231, 225, 225);
+    margin: 10px;
+    text-decoration: none;
+    font-size: 22px;
+    border-radius: 5px;
+    background-color: rgb(27, 27, 91);
+    text-align: center;
+}
+@media (max-width: 500px){
+    h3{
+        font-size: 18px;
+    }
 }
 a{
     color: rgb(231, 225, 225);
@@ -30,7 +102,7 @@ a{
 }
 @media (max-width: 500px){
     a{
-        font-size: 15px;
+        font-size: 16px;
     }
 }
 
@@ -42,5 +114,18 @@ a:hover{
 
 a:visited{
     color:rgb(217, 214, 214);
+}
+
+li{
+    color: white;
+    margin: 5px 0px 5px ;
+    text-align: center;
+    list-style-type: none;
+    font-size: 18px;
+}
+@media (max-width: 500px){
+    li{
+        font-size: 15px;
+    }
 }
 

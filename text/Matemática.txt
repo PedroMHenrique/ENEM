@@ -22,7 +22,7 @@ Geometria espacial -55%
 Geometria plana - 36%
 Geometria analítica - 9%
 
-Estatística (h3)
+Geometria analítica - 9% (h3)
 
 Gráficos - 33%
 Medidas de tendência central - 27%
