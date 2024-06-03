@@ -1,0 +1,1 @@
+alert("Está é uma página dedicada para uma matéria em especifica, e é separada da seguinte forma: macro assuntos, na qual é um tema grande que apresenta outros assuntos. E logo depois será fragmentada e apresentado mais afundo o que tem dentro do macro assunto"
