@@ -11,7 +11,7 @@ body{
 }
 
 .corpo{
-    width: 70vh;
+    width: 100vh;
     background-color: rgba(67, 67, 206, 0.535);
     border-radius: 10px;
     margin: 10px;
@@ -121,7 +121,7 @@ li{
     margin: 5px 0px 5px ;
     text-align: center;
     list-style-type: none;
-    font-size: 18px;
+    font-size: 20px;
 }
 @media (max-width: 500px){
     li{
